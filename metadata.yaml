@@ -1,0 +1,23 @@
+_repo: The-Little-Daisy-Girl-and-Other-Poems_7527
+creator:
+  authors:
+  - agent_name: Hedge-Cheney, Jacquelyn
+    gutenberg_agent_id: '2504'
+    url: http://www.gutenberg.org/2009/agents/2504
+  - agent_name: Cheney, Roland Jon
+    gutenberg_agent_id: '2505'
+    url: http://www.gutenberg.org/2009/agents/2505
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7527'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: The Little Daisy Girl and Other Poems
+url: http://www.gutenberg.org/ebooks/7527
